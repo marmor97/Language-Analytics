@@ -19,4 +19,19 @@ Under W2 you will find a src folder from where you can execute the script colloc
 
 ``python3 collocation.py``
 
-## Week 3
+## Week 4
+To run the script collecting sentiments for abc news, you first have to set up a virtual environment. This is done by first moving to the W4 folder and then running the bash command:
+
+
+``cd Language-Analytics/W4``
+
+``bash create_venv_w4.sh``
+
+Now you should be able to run
+
+``python3 sentiment.py``
+
+Saved plots and interpretation of results are in the W4 folder as well.
+
+
+
