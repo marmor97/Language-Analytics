@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-VENVNAME = marmor_lang
+VENVNAME= marmor_lang
 
 python3 -m venv $VENVNAME
 source $VENVNAME/bin/activate
