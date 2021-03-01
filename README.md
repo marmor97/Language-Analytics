@@ -2,6 +2,8 @@
 This repository contains all code for the course Language Analytics as part of the Bachelors tilvalg in Cultural Data Science.
 Below, you will find a guide to clone the repository and execute the latest code developed.
 
+
+## Week 2
 To use the files in this repository, please clone this repo to the place you work with the following command:
 
 ``git clone https://github.com/marmor97/Language-Analytics``
@@ -16,3 +18,5 @@ Under W2 you will find a src folder from where you can execute the script colloc
 ``cd src``
 
 ``python3 collocation.py``
+
+## Week 3
