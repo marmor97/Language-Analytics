@@ -1,0 +1,1 @@
+Though the plots use same data of polarity the way they are average seem to make a difference. In the plot with a rolling mean of seven days, more shifts are seen and local changes in polarity are detected. The monthly rolling mean is more steadily increasing and do not have large fluctuations.
