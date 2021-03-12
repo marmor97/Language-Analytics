@@ -19,4 +19,31 @@ Under W2 you will find a src folder from where you can execute the script colloc
 
 ``python3 collocation.py``
 
-## Week 3
+## Week 4
+To run the script collecting sentiments for abc news, you first have to set up a virtual environment. This is done by first moving to the W4 folder and then running the bash command:
+
+
+``cd Language-Analytics/W4``
+
+``bash create_venv_w4.sh``
+
+Now you should be able to run
+
+``python3 sentiment.py``
+
+Saved plots and interpretation of results are in the W4 folder as well.
+
+## Week 6
+To run the script generating network from an edgelist, you first have to set up a virtual environment. This is done by first moving to the W6 folder and then running the bash command:
+
+``cd Language-Analytics/W6``
+
+``bash create_venv_w6.sh``
+
+``source marmor_langw6/bin/activate``
+
+Now you should have activated the environment and you can execute the following line to run the script
+
+``python3 network.py``
+
+
