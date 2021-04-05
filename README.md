@@ -47,3 +47,15 @@ Now you should have activated the environment and you can execute the following 
 ``python3 network.py``
 
 
+## Week 9
+The script for this assignment performs a logistic regression on Reddit data containing depressed and suicidal subreddits and tries to distinguish between these.  First you have to set up a virtual environment. This is done by first moving to the W9 folder and then running the bash command:
+
+cd Language-Analytics/W9
+
+bash create_venv_w9.sh
+
+source marmor_langw9/bin/activate
+
+Now you should have activated the environment and you can execute the following line to run the script
+
+python3 src/log_reddit.py
