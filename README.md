@@ -59,3 +59,7 @@ Now you should have activated the environment and you can execute the following 
 ``python3 src/log_reddit.py``
 
 The script produces a learning curve plot saved in the folder ``viz``, saves a classification report and a summary of the results in the ``txt`` folder
+
+Kill your new environment by typing 
+
+``bash kill_venv.sh``
