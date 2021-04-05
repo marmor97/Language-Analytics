@@ -15,9 +15,7 @@ To use the files in this repository, please clone this repo to the place you wor
 
 Under W2 you will find a src folder from where you can execute the script collocation.py. To move to this folder and run the script from the terminal type:
 
-``cd src``
-
-``python3 collocation.py``
+``src/python3 collocation.py``
 
 ## Week 4
 To run the script collecting sentiments for abc news, you first have to set up a virtual environment. This is done by first moving to the W4 folder and then running the bash command:
