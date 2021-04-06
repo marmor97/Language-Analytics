@@ -1,0 +1,4 @@
+Summary of results
+Results from the logistic regression show that the classifier does a medium job at classifying suicide and depression sub-reddits as it reaches an accuracy above chance (appr. 70 %) but still misses quite a few cases. The learning curve shows that the classifier does not seem to overfit. Rather it could look like it suffers from a high bias / underfitting problem as the curves are close but not reaching very high values.
+
+It could be interesting to see which words / bigrams etc were influential, however, this is not possible as I did cross-validation to introduce diversity to the model. NB i’m not sure why accuracy and f1-scores have almost same values, it puzzles me a bit, but did not have time to look more into it :’)
