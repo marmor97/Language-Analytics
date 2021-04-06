@@ -1,0 +1,170 @@
+[33mcommit 2f76794956250e23d160ef0fc76d6b904f62b867[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Marie <mariemortensen97@gmail.com>
+Date:   Tue Apr 6 12:57:12 2021 +0200
+
+    New smaller data file
+
+[33mcommit 89396e46f22fd821f8128cfff5970768c4921071[m
+Merge: 8df0260e bc69f3df
+Author: Marie <mariemortensen97@gmail.com>
+Date:   Tue Apr 6 12:46:27 2021 +0200
+
+    Merge branch 'main' of https://github.com/marmor97/Language-Analytics into main
+
+[33mcommit 8df0260e836a8ef7f1443c207ba691e26c9780d3[m
+Author: Marie <mariemortensen97@gmail.com>
+Date:   Tue Apr 6 12:46:01 2021 +0200
+
+    Added W9
+
+[33mcommit bc69f3df975346968d7043ab445bdb6b3104f1f3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: marmor97 <49951969+marmor97@users.noreply.github.com>
+Date:   Mon Apr 5 19:05:57 2021 +0200
+
+    Update README.md
+
+[33mcommit 660989bfba0fe8004d7553047b2bbc80a8a41326[m
+Author: marmor97 <49951969+marmor97@users.noreply.github.com>
+Date:   Mon Apr 5 15:14:15 2021 +0200
+
+    Update README.md
+
+[33mcommit 733e55dc53002a54b7f4ebb69ff3d2f19e75062b[m
+Author: marmor97 <49951969+marmor97@users.noreply.github.com>
+Date:   Mon Apr 5 15:11:45 2021 +0200
+
+    Update README.md
+
+[33mcommit 781a3d467622fa2d8816db0e4e496153ebd7aab6[m
+Author: marmor97 <49951969+marmor97@users.noreply.github.com>
+Date:   Mon Apr 5 15:11:18 2021 +0200
+
+    Update README.md
+
+[33mcommit 5fc88ef8921dd1d3e628fcdcb200418920922aba[m
+Author: marmor97 <49951969+marmor97@users.noreply.github.com>
+Date:   Mon Apr 5 15:10:55 2021 +0200
+
+    Update README.md
+
+[33mcommit 4cb4f3a1b330480b8379806f44fd5c1a5b4cfb4a[m
+Merge: f896cc20 b0e22bbb
+Author: Marie <mariemortensen97@gmail.com>
+Date:   Fri Mar 12 09:20:01 2021 +0100
+
+    Merge branch 'main' of https://github.com/marmor97/Language-Analytics into main
+
+[33mcommit f896cc20d1c599a3ed1b939ee3b8a2080d4cc1b9[m
+Author: Marie <mariemortensen97@gmail.com>
+Date:   Fri Mar 12 09:18:56 2021 +0100
+
+    added w6
+
+[33mcommit b0e22bbb31bb3529a6498990577b56761d7c84d3[m
+Author: marmor97 <49951969+marmor97@users.noreply.github.com>
+Date:   Fri Mar 12 08:59:05 2021 +0100
+
+    Update README.md
+
+[33mcommit 865553bb080c496018332faba93b69a37284c860[m
+Author: marmor97 <49951969+marmor97@users.noreply.github.com>
+Date:   Mon Mar 1 08:24:49 2021 +0100
+
+    Update README.md
+
+[33mcommit 827f10c6302ea030170a79bdfc0e48219b4634a5[m
+Author: Marie <mariemortensen97@gmail.com>
+Date:   Mon Mar 1 08:18:56 2021 +0100
+
+    adding w4 files
+
+[33mcommit 6ff113c545199d1190448bdce0ea268e0042005f[m
+Merge: 6ac97ab0 386a18ad
+Author: Marie <mariemortensen97@gmail.com>
+Date:   Mon Mar 1 08:17:31 2021 +0100
+
+    Merge branch 'main' of https://github.com/marmor97/Language-Analytics into main
+
+[33mcommit 6ac97ab0e6be5f59f4849ea7b49a96e00bd9fc18[m
+Author: Marie <mariemortensen97@gmail.com>
+Date:   Mon Mar 1 08:17:01 2021 +0100
+
+    Week 4
+
+[33mcommit 386a18adb3e0b91fbf11290a4038dd64cac963e4[m
+Author: marmor97 <49951969+marmor97@users.noreply.github.com>
+Date:   Fri Feb 26 12:37:18 2021 +0100
+
+    Update README.md
+
+[33mcommit 6d701c60e45a4cd51629c09dd29f0b8773d7c0a0[m
+Author: Marie <mariemortensen97@gmail.com>
+Date:   Mon Feb 15 11:48:06 2021 +0100
+
+    new folder connected and files added
+
+[33mcommit a53add4f2b1202ae1b8a73d15cf428817e877097[m
+Author: marmor97 <49951969+marmor97@users.noreply.github.com>
+Date:   Mon Feb 15 09:30:42 2021 +0100
+
+    Update README.md
+
+[33mcommit 2e1402589be254836c25aa2d35588163c02654d1[m
+Author: marmor97 <49951969+marmor97@users.noreply.github.com>
+Date:   Mon Feb 15 09:18:45 2021 +0100
+
+    Add files via upload
+    
+    new create_venv
+
+[33mcommit d74057e229412b3eef55d5ec3165249c5699baec[m
+Author: marmor97 <49951969+marmor97@users.noreply.github.com>
+Date:   Mon Feb 15 09:18:15 2021 +0100
+
+    Delete create_venv.sh
+
+[33mcommit b9ec40e9f57254ac20ac01e5fd3ea81764789763[m
+Author: marmor97 <49951969+marmor97@users.noreply.github.com>
+Date:   Sun Feb 14 22:33:31 2021 +0100
+
+    Add files via upload
+    
+    Adding W2 data
+
+[33mcommit a2480657aec99a01b1d5822e9f1b78e4e63f753e[m
+Author: marmor97 <49951969+marmor97@users.noreply.github.com>
+Date:   Mon Feb 8 22:56:44 2021 +0100
+
+    Add files via upload
+    
+    dataframe with info
+
+[33mcommit ac0bf17c2e8a487c11db3c4e707c428581c4b0c9[m
+Author: marmor97 <49951969+marmor97@users.noreply.github.com>
+Date:   Mon Feb 8 16:31:14 2021 +0100
+
+    Delete assignment one.md
+
+[33mcommit 700e3deaa0b44430965c776ff008129960b63c62[m
+Author: marmor97 <49951969+marmor97@users.noreply.github.com>
+Date:   Mon Feb 8 16:30:09 2021 +0100
+
+    Add files via upload
+
+[33mcommit c94e785b1a78528d1046a138b49d865b8471b8f5[m
+Author: marmor97 <49951969+marmor97@users.noreply.github.com>
+Date:   Mon Feb 8 16:24:28 2021 +0100
+
+    Update README.md
+
+[33mcommit dae6d85d6851e0696cd69a5b8046245ca45b640d[m
+Author: marmor97 <49951969+marmor97@users.noreply.github.com>
+Date:   Mon Feb 8 16:24:05 2021 +0100
+
+    Update README.md
+
+[33mcommit b12ece2eac8765726faa65e6563b6c518d2f297a[m
+Author: marmor97 <49951969+marmor97@users.noreply.github.com>
+Date:   Fri Feb 5 08:47:43 2021 +0100
+
+    Update README.md
