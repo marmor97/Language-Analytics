@@ -63,3 +63,29 @@ The script produces a learning curve plot saved in the folder ``viz``, saves a c
 Kill your new environment by typing 
 
 ``bash kill_venv.sh``
+
+
+## Week 11
+The folder of this week contains two src files: one to perform a Logistic Regression classification and one to perform a CNN. Both tries to do so on the Game of Thrones data that contains sentences spoken in all series/episodes. The goal is to predict season from sentences spoken.
+
+Please move to the W11 folder
+``cd Language-Analytics/W11``
+
+Create the virtual environment for W11
+``bash create_venv_w11.sh``
+
+``source marmor_langw11/bin/activate``
+
+Now you should have activated the environment and you can execute the following to run the two scripts
+
+``cd src``
+
+``python3 lr_got.py``
+
+``python3 cnn_got.py``
+
+The script produces learning curve plots and classification performances saved in the folder ``output``. 
+
+Remove your new environment by typing 
+
+``bash kill_venv.sh``
