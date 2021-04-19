@@ -70,17 +70,19 @@ The folder of this week contains two src files: one to perform a Logistic Regres
 
 The CNN model makes use of glove embeddings, however these files are too big for GitHub. Therefore, you need to download these manually by typing this in the terminal:
 
-``wget http://nlp.stanford.edu/data/glove.6B.zip
+``wget http://nlp.stanford.edu/data/glove.6B.zip``
 
-unzip -q glove.6B.zip``
+``unzip -q glove.6B.zip``
 
 You can either move the embedding file we are using (glove.6B.50d.txt) to the empty folder 'glove' or change the path in the script from the terminal by typing: 
+
 ``python3 cnn_got.py -gp path/to/glove``
 
 Please move to the W11 folder
 ``cd Language-Analytics/W11``
 
 Create the virtual environment for W11
+
 ``bash create_venv_w11.sh``
 
 ``source marmor_langw11/bin/activate``
